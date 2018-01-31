@@ -4,7 +4,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "Gasolina ou Etanol",
+      "namespace": "android_app",
       "package_name": "com.magiag.gasolinaouetanol",
       "sha256_cert_fingerprints": [
         "B7:92:42:A2:6B:26:F5:03:3D:B6:D1:33:9A:A0:DE:3F:68:C3:F7:A2:86:B4:4B:9F:5E:2B:F8:D6:88:E5:FB:6B"
